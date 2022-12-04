@@ -1,0 +1,3 @@
+name: stylegan-v
+dependencies:
+  - python = 3.8
